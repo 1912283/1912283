@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodick Chinua Ibe-Ani
 - 👀 I’m interested in Learning to Dev with you all
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Dev Work
 - 💞️ I’m looking to collaborate on this platform
 - 📫 How to reach me you can reach me on 07721629466
 
